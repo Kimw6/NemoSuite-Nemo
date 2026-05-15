@@ -1,5 +1,17 @@
-# NetMotif
-Current Nemo program in NemoSuite site
+# NemoSuite-Nemo
+Current [Nemo](https://bioresearch.uwb.edu:8061/) program in [NemoSuite site](https://bioresearch.uwb.edu/biores/NemoSuite/)
+
+It is folked from https://github.com/raduba/NetMotif for maintenance purpose.
+Previous versions are available
+
+https://github.com/hanpham32/NetMotif
+
+https://github.com/Kimw6/NEMO_SUITE
+
+Java version of Nemo is available https://github.com/lytbfml/Nemolib_App
+
+
+
 ## Local Development Setup
 
 Note: This application is currently supported only on Linux and macOS systems. Please ensure you are using a Linux or macOS environment to run the app and the appropiate `lalbeg` binary for each platform.
