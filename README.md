@@ -1,5 +1,5 @@
 # NetMotif
-
+Current Nemo program in NemoSuite site
 ## Local Development Setup
 
 Note: This application is currently supported only on Linux and macOS systems. Please ensure you are using a Linux or macOS environment to run the app and the appropiate `lalbeg` binary for each platform.
